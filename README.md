@@ -50,8 +50,11 @@ https://www.postman.com/jvlcode/workspace/nodejs-ecommerce/collection/19530322-9
 
 ## Screenshots
 ![4](https://github.com/user-attachments/assets/3a8c0f1d-5483-4580-8d2e-98dfd6ad5809)
+
 ![3](https://github.com/user-attachments/assets/5d2e2df5-1c23-4b04-a5d8-a294f51efbea)
+
 ![2](https://github.com/user-attachments/assets/bbd7d9e3-39b1-4325-8b82-4742fe6188a0)
+
 ![1](https://github.com/user-attachments/assets/6cca0111-8069-4dca-8202-16de1c6dc8aa)
 
 
