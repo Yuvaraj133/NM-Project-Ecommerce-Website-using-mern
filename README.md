@@ -1,6 +1,6 @@
-# MEW 
+# ShopEZ
 Men's Ethnic Wear is an ecommerce web application
-### 🚀visit : https://mew.onrender.com
+
 ## Tools and Packages
  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
