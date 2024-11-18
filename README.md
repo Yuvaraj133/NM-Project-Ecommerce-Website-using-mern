@@ -41,7 +41,7 @@ Men's Ethnic Wear is an ecommerce web application
 ## Run Locally
 Clone the project
 ```bash
-  git clone https://github.com/MohammadOwais10/MEW.git
+  git clone https://github.com/MohammadOwais10/MEW.git](https://github.com/Yuvaraj133/NM-Project-Ecommerce-Website-using-mern.git
 ```
 Go to the project directory
 ```bash
